@@ -14,7 +14,7 @@
 - <img alt="GIF" src="images/Developer.gif" width="25" /> &nbsp; I’m currently learning **OpenShift**. <br>
 - <img src="images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **anything**. <br>
-- <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[badreddine.malek@enis.tn]**<br>
+- <img src="images/letterbox.gif?raw=true" width="25" /> &nbsp; Contact me: **[cherif.abbes@ens.uvsq.fr]**<br>
 - &nbsp;&nbsp;<img src="images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 <!--Intro end-->
 
