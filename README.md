@@ -27,14 +27,14 @@ Designing, automating, and scaling resilient cloud-native infrastructures with a
 <!-- Intro Section -->
 <p align="left">
 
-- 🚀 Specializing in **Cloud Architecture, DevOps Engineering, and Platform Reliability**
-- 🎓 Master’s Degree in **Network & Systems Engineering — Paris-Saclay University**
-- ☁️ Strong hands-on expertise in **Azure, Kubernetes, Docker, Terraform, CI/CD, Linux, and Infrastructure Automation**
-- 🔭 Passionate about building **secure, scalable, and production-grade cloud infrastructures**
-- 🛠️ Deep interest in **Open Source, GNU/Linux, Observability (Grafana, Loki, OpenTelemetry), and Infrastructure as Code**
-- 📜 Terraform Associate trained with practical implementation experience
-- 🤝 Open to collaboration on **Cloud, DevOps, SRE, and Platform Engineering projects**
-- 📫 Contact me: **cherif.abbes@ens.uvsq.fr**
+- 🚀 Specializing in **Cloud Architecture, DevOps Engineering, Platform Reliability, and Cloud-Native Automation**
+- 🎓 Holder of an **Engineering Degree in Computer Science & Networks** and a **Master’s Degree in Network & Systems Engineering from Paris-Saclay University**
+- ☁️ Strong hands-on expertise in **Azure, Kubernetes, Docker, Terraform, CI/CD, Linux, Infrastructure as Code, and Cloud Automation**
+- 🔭 Passionate about designing **secure, scalable, highly available, and production-grade cloud infrastructures**
+- 🛠️ Deep interest in **Open Source, GNU/Linux, Observability (Grafana, Loki, OpenTelemetry), Kubernetes Ecosystems, and Infrastructure Automation**
+- 📜 Certified-training background in **Terraform, Linux, Docker, and Multi-Cloud Networking**
+- 🤝 Open to collaboration on **Cloud Engineering, DevOps, SRE, Platform Engineering, and Infrastructure Modernization projects**
+- 📫 Contact me: **abbeschrif575@gmail.com**
 - 🌐 Portfolio: **https://cherif-abbes.netlify.app**
 
 </p>
@@ -69,25 +69,14 @@ Designing, automating, and scaling resilient cloud-native infrastructures with a
 
 <h1 align="center">📊 GitHub Analytics</h1>
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbbesCheriif&show_icons=true&theme=light&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbesCheriif&layout=compact&theme=light&hide_border=true" />
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbbesCheriif&theme=light&show_icons=true&count_private=true" />
-
-<br><br>
-
-<img title="🔥 GitHub Streak" alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbbesCheriif&theme=light&hide_border=false" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbbesCheriif&theme=light&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AbbesCheriif&theme=light&hide_border=true" />
+</p>
 
 <!-- ===================================================== -->
 <!--                     TROPHIES                          -->
