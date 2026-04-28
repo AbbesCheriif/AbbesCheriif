@@ -28,11 +28,12 @@ Designing, automating, and scaling resilient cloud-native infrastructures with a
 <p align="left">
 
 - 🚀 Specializing in **Cloud Architecture, DevOps Engineering, Platform Reliability, and Cloud-Native Automation**
-- 🎓 Holder of an **Engineering Degree in Computer Science & Networks** and a **Master’s Degree in Network & Systems Engineering from Paris-Saclay University**
+- 🎓 Holder of an **Engineering Degree in Computer Science**
+- 🎓 Holder of a **Master’s Degree in Network & Systems Engineering from Paris-Saclay University**
 - ☁️ Strong hands-on expertise in **Azure, Kubernetes, Docker, Terraform, CI/CD, Linux, Infrastructure as Code, and Cloud Automation**
 - 🔭 Passionate about designing **secure, scalable, highly available, and production-grade cloud infrastructures**
 - 🛠️ Deep interest in **Open Source, GNU/Linux, Observability (Grafana, Loki, OpenTelemetry), Kubernetes Ecosystems, and Infrastructure Automation**
-- 📜 Certified-training background in **Terraform, Linux, Docker, and Multi-Cloud Networking**
+- 📜 Certified-training background in **Kubernetes, Terraform, Linux, Docker, and Multi-Cloud Networking**
 - 🤝 Open to collaboration on **Cloud Engineering, DevOps, SRE, Platform Engineering, and Infrastructure Modernization projects**
 - 📫 Contact me: **abbeschrif575@gmail.com**
 - 🌐 Portfolio: **https://cherif-abbes.netlify.app**
