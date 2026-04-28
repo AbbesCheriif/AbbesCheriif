@@ -60,7 +60,7 @@ Designing, automating, and scaling resilient cloud-native infrastructures with a
 <p align="center">
   🌐 <a href="https://cherif-abbes.netlify.app">Portfolio</a> •
   💼 <a href="https://www.linkedin.com/in/cherif-abbes">LinkedIn</a> •
-  📧 cherif.abbes@ens.uvsq.fr
+  📧 abbeschrif575@gmail.com
 </p>
 
 <!-- ===================================================== -->
