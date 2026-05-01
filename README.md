@@ -16,7 +16,7 @@
 
 <!-- Professional Subtitle -->
 <h3 align="center">
-☁️ Cloud & DevOps Engineer | Kubernetes • Azure • Terraform • Observability
+☁️ Cloud & DevOps Engineer | Kubernetes • Azure • AWS • GCP • Terraform • Observability
 </h3>
 
 <!-- Description -->
